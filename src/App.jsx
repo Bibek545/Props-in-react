@@ -10,7 +10,10 @@ function App() {
      <Student name="Bibek Hamal" age={26} isStudent = {true}/>
      <Student name="Nini Thing" age={25} isStudent = {false}/>
      <Student name="Bishnu Thapa" age={25} isStudent = {false}/>
-     <UserGreeting isLoggedIn = {true} username ="bikki"/>
+     <br/>
+     <br/>
+
+     <UserGreeting isLoggedIn = {false} username ="bikki"/>
     </>
   )
 }
